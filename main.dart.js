@@ -12022,7 +12022,7 @@ if(r==null)return new Y.cm(C.o,q,C.O)
 return new Y.cm(r,q,C.O)},
 a74:function(a){var s=0,r=P.a5(t.z),q
 var $async$a74=P.a1(function(b,c){if(b===1)return P.a2(c,r)
-while(true)switch(s){case 0:q=G.arK("https://tamilnames.s3.ap-south-1.amazonaws.com/allnames")
+while(true)switch(s){case 0:q=G.arK("https://mystifying-knuth-7ddfac.netlify.app/allnames")
 s=1
 break
 case 1:return P.a3(q,r)}})
